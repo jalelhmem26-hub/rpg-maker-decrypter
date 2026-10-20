@@ -1,0 +1,17 @@
+# Generated on 2026-11-15
+# Text file normalization
+# Normalize line endings
+yarn.lock linguist-generated
+examples/site/** linguist-vendored
+*.min.js linguist-generated
+*.tsx linguist-detectable   
+vendor/* linguist-vendored
+*.png binary
+*.svg text
+
+*.woff2 binary
+
+src/*.ts linguist-detectable
+*.bat text eol=crlf
+examples/site/index.html linguist-vendored
+# eof 5bfd4acb
