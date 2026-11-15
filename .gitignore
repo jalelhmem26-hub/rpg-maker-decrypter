@@ -1,0 +1,6 @@
+*.tgz
+.next/
+.env
+build/
+.pnpm-store/
+node_modules/
